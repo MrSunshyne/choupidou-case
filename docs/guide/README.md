@@ -5,6 +5,14 @@ This is a project that explains **what**, **how** and **where** of the cHouPidoU
 I'll do you one better: **Why** ?
 :::
 
+## What is cHouPidoU case ?
+
+It is a way of writing text but by :
+
+1. Replacing certain letters with symbols
+2. Using uppercase and lowercase on certain letters
+3. Ommiting certain letters while retaining the meaning of the word
+
 ## Origins
 
 For almost a decade now, we have been familiar with the choupidou slang,especially in the landscape of Mauritius. Some say it was a language given to us in heritage before the demise of mobile phones with physical keyboards.
