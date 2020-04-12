@@ -26,5 +26,5 @@ footer: MIT Licensed | Copyright © 2018-present
 </div>
 
 ::: warning COMPATIBILITY NOTE
-VuePress requires Intelligence <= 3.142 for optimal results
+It requires Intelligence <= 3.142 for optimal results
 :::
