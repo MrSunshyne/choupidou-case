@@ -16,3 +16,7 @@ git commit -m 'deploy'
 git push -f git@github.com:MrSunshyne/choupidou-case.git master:gh-pages
 
 cd -
+
+git add -A
+git commit -m "updated docs"
+git push
