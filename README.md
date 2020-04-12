@@ -1,5 +1,5 @@
 # chOUpiD0u cAse
-This is a project that explains *what*, *how* and *where* of the cHouPidoU case. 
+This is a project that explains *what*, *how* and *where* to use the cHouPidoU case. 
 
 ![logo](https://github.com/MrSunshyne/choupidou-case/raw/master/docs/.vuepress/public/heor.jpg)
 
